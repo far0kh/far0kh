@@ -73,6 +73,7 @@ Proficient in blockchain technology since 2020, with a focus on decentralized fi
 [![Solidity][Solidity.org]][Solidity-url]
 [![Rust][Rust-lang.org]][Rust-url]
 [![Python][Python.org]][Python-url]
+[![TypeScript][TypeScript.org]][TypeScript-url]
 [![Tailwindcss][Tailwindcss.com]][Bootstrap-url]
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![JQuery][JQuery.com]][JQuery-url]
@@ -98,6 +99,8 @@ Proficient in blockchain technology since 2020, with a focus on decentralized fi
 [Rust-url]: https://www.rust-lang.org/
 [Python.org]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
+[TypeScript.org]: https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6
+[TypeScript-url]: https://www.typescriptlang.org/
 [Tailwindcss.com]: https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss
 [Tailwindcss-url]: https://tailwindcss.com/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
