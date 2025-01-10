@@ -67,11 +67,13 @@ Proficient in blockchain technology since 2020, with a focus on decentralized fi
 - Fullstack Software Development
 
 ## 🎓 Graduate:
-<img src="./assets/sharif-university.png" height="50" alt="SHUT">
-<img src="./assets/blank.png" width="13" alt="">
-<img src="./assets/tehran-university.png" height="50" alt="TU">
-<img src="./assets/blank.png" width="13" alt="">
-<img src="./assets/btcslab.png" height="50" alt="BTSCLab">
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="./assets/sharif-university.png" height="50" alt="SHUT"></td>
+    <td><img src="./assets/tehran-university.png" height="50" alt="TU"></td>
+    <td><img src="./assets/btcslab.png" height="50" alt="BTSCLab"></td>
+  </tr>
+</table>
 
 ## 🛠️ Languages and Tools 
 [![Next][Next.js]][Next-url]
