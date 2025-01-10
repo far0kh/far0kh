@@ -72,7 +72,7 @@ td, th {
    border: none!important;
 }
 </style>
-<table>
+<table cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="./assets/sharif-university.png" height="50" alt="SHUT"></td>
     <td>&nbsp;</td>
