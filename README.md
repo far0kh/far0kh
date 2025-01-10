@@ -74,7 +74,7 @@ td, th {
 </style>
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="./assets/sharif-university.png" height="50" alt="SHUT"></td>
+    <td border="0"><img src="./assets/sharif-university.png" height="50" alt="SHUT"></td>
     <td>&nbsp;</td>
     <td><img src="./assets/tehran-university.png" height="50" alt="TU"></td>
     <td>&nbsp;</td>
