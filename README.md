@@ -68,13 +68,13 @@ Proficient in blockchain technology since 2020, with a focus on decentralized fi
 
 ## 🎓 Graduate:
 <style>
-td, th {
-   border: none!important;
+.markdown-body table td {
+   border: none !important;
 }
 </style>
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td border="0"><img src="./assets/sharif-university.png" height="50" alt="SHUT"></td>
+    <td><img src="./assets/sharif-university.png" height="50" alt="SHUT"></td>
     <td>&nbsp;</td>
     <td><img src="./assets/tehran-university.png" height="50" alt="TU"></td>
     <td>&nbsp;</td>
