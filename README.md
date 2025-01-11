@@ -1,11 +1,10 @@
 <br />
 <h1 align="center">👋 Hey there, I'm Farokh!</h1>
-<h3 align="center">Data Analyst | Blockchain and Full Stack Software Developer | Startup Founder | Technical Instructor</h3>
+<h3 align="center">Data Analyst | Blockchain & Full Stack Software Developer | AI Agent Developer | Startup Founder | Technical Instructor</h3>
 <br />
 
 ## 🎯 Objective:
-Detail-oriented Data Analyst and Systems Planning Specialist with over 15 years of experience in financial and industrial software development. Expertise in predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models.
-Proficient in blockchain technology since 2020, with a focus on decentralized finance (DeFi) and web3. Actively engaged in crafting and analyzing smart contracts. Skilled in project management and Fullstack Software Development.
+Detail-oriented Data Analyst and Systems Planning Specialist with over 15 years of experience in financial and industrial software development. Possess expertise in predictive analytics, particularly in recurrent neural networks (RNN) and long short-term memory (LSTM) models. Proficient in blockchain technology since 2020, focusing on decentralized finance (DeFi) and Web3 applications. Actively engaged in crafting and analyzing smart contracts, while also expanding expertise in AI Agent development. Additionally skilled in project management and full-stack software development.
  
 ## 💼 Professional Experience:
 <details>
@@ -41,19 +40,22 @@ Proficient in blockchain technology since 2020, with a focus on decentralized fi
       Developed and maintained specialized financial and industrial software applications.
     </li>
     <li>
-      Implemented blockchain technology into existing software systems, enhancing security and transparency.
+      Integrated blockchain technology into existing software systems, enhancing security and transparency.
     </li>
     <li>
       Collaborated with clients to understand their needs and translate requirements into technical specifications.
     </li>
     <li>
-      Conducted code reviews and implemented best practices to ensure high-quality software deliverables.
+      Implemented AI techniques, including machine learning and AI agent development, to improve software functionality and user experience.
+    </li>
+    <li>
+      Conducted code reviews and applied best practices to ensure high-quality software deliverables.
     </li>
     <li>
       Provided technical support and training to end-users.
     </li>
     <li>
-      Led Fullstack Software Development projects from concept to delivery, coordinating with designers, developers, and stakeholders.
+      Led full-stack software development projects from concept to delivery, coordinating with designers, developers, and stakeholders.
     </li>
   </ol>
 </details>
@@ -62,9 +64,11 @@ Proficient in blockchain technology since 2020, with a focus on decentralized fi
 - Data Analytics and Information Systems
 - Project Management
 - Blockchain Technology and Web3
-- Decentralized Finance (DeFi)
+- Decentralized Finance (DeFi / BTCFi)
 - Smart Contract Development
-- Fullstack Software Development
+- Artificial Intelligence and Machine Learning
+- Decentralized AI (DeAI / DeFAI)
+- Full-stack Software Development
 
 ## 🎓 Graduate:
 <table cellspacing="0" cellpadding="0">
@@ -86,6 +90,9 @@ Proficient in blockchain technology since 2020, with a focus on decentralized fi
 [![Tailwindcss][Tailwindcss.com]][Bootstrap-url]
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![JQuery][JQuery.com]][JQuery-url]
+[![ChatGPT][ChatGPT.com]][ChatGPT-url]
+[![GitHub Copilot][GitHub Copilot]][GitHub Copilot-url]
+[![Google Gemini][Google Gemini]][Google Gemini-url]
 
 
 
@@ -116,3 +123,9 @@ Proficient in blockchain technology since 2020, with a focus on decentralized fi
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[ChatGPT.com]: https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
+[ChatGPT-url]: https://chatgpt.com/ 
+[GitHub Copilot]: https://img.shields.io/badge/GitHub%20Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=white
+[GitHub Copilot-url]: https://github.com/features/copilot 
+[Google Gemini]: https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white
+[Google Gemini-url]: https://gemini.google.com 
